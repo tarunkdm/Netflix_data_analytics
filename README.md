@@ -16,9 +16,6 @@ This project involves analyzing Netflix shows data using SQL Server. The data is
 7. Using Kaggle API
 8. Inserting Data into SQL Server
 9. Data Analysis
-10.SQL Queries
-11.Results
-
 
 ### Dataset
 The dataset used in this project is available on Kaggle: https://www.kaggle.com/datasets/shivamb/netflix-shows
